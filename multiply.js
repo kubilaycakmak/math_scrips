@@ -3,5 +3,5 @@ var b = 3;
 
 var result = a * b;
 
-console.log(result);
+console.log("Result will be: " + result);
 
